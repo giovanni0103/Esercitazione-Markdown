@@ -161,6 +161,7 @@ Il codice modificato dovrebbe apparire in questo modo:
 `});`
 >
 Ora eseguiamo il comando `/codeday` e dovrebbe apparire questo:
+>
 ![](https://hackerstribe.com/wp-content/uploads/2017/07/telegram-markdown.png)
 >
 *Telegram markdown*
